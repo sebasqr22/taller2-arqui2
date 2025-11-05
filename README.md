@@ -2,6 +2,8 @@
 **Autores:** Sebastian Quesada y Luis Delgado
 ---
 
+Link Compiler Explorer: https://godbolt.org/z/sMK3WdPG9
+
 ##  Descripción del Proyecto
 
 Este taller implementa y compara dos versiones de un algoritmo de conversión de texto (mayúsculas ↔ minúsculas) con el objetivo de analizar las diferencias de rendimiento entre una versión **serial** y una versión **SIMD (vectorizada)** utilizando **instrucciones AVX2**.
